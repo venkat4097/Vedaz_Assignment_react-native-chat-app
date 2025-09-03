@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Courgette&family=Outfit:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Varela+Round&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+* {
+  font-family: 'Varela Round', sans-serif;
+
+}
+
+
+
+::-webkit-scrollbar {
+  display: none;
+}
+/* Ensure proper viewport constraints */
+.h-full {
+  height: 100%;
+  max-height: 100vh;
+}
+
+/* Fix for flexbox children scrolling */
+.flex-1 {
+  flex: 1 1 0%;
+  min-height: 0;
+}
+
+/* Custom scrollbar styling */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thumb-gray-700::-webkit-scrollbar-thumb {
+  background-color: #374151;
+  border-radius: 3px;
+}
+
+.scrollbar-track-gray-900::-webkit-scrollbar-track {
+  background-color: #111827;
+}
