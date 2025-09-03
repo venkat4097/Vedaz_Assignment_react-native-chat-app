@@ -6,7 +6,7 @@ Features include messaging, image sharing, online/offline status, and seen/deliv
 
 LIVE DEMO:https://vedaz-assignment-react-native-chat-app-wj74.onrender.com
 ---
-
+DEMO Video:https://drive.google.com/file/d/1QQIxb0FwpICNMl4s2G_pbG3PW5Yfjhb8/view?usp=drive_link
 ## 📂 Project Structure
 
 ```
