@@ -3,6 +3,8 @@
 A **real-time chat application** with a React Native mobile frontend and a Node.js backend.  
 Features include messaging, image sharing, online/offline status, and seen/delivered indicators.
 
+
+LIVE DEMO:https://vedaz-assignment-react-native-chat-app-wj74.onrender.com
 ---
 
 ## 📂 Project Structure
@@ -34,8 +36,8 @@ chat/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/alumni-connect.git
-cd alumni-connect
+git clone https://github.com/<your-username>Vedaz_Assignment_react-native-chat-app
+/.git
 ```
 
 ---
