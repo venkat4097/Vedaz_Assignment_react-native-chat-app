@@ -36,3 +36,11 @@
 .scrollbar-track-gray-900::-webkit-scrollbar-track {
   background-color: #111827;
 }
+
+.app-bg {
+  background-image: url('/bgImage.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
